@@ -1,0 +1,5 @@
+authtoken: 30FCR2Lki8V1tdRWvLC8jZiBML1_3J2owAZ6woMVSctMMdDJ3
+tunnels:
+  db-tunnel:
+    proto: tcp
+    addr: dpg-d1s27vjuibrs73ajojq0-a:5432

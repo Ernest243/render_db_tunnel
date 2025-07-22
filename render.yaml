@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: sanalink-db-tunnel
-    env: docker
-    plan: free
-    repo: https://github.com/render-examples/ngrok-tunnel
-    dockerContext: .
-    autoDeploy: false
