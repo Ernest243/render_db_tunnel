@@ -1,4 +1,6 @@
+version: 2
 authtoken: 30FCR2Lki8V1tdRWvLC8jZiBML1_3J2owAZ6woMVSctMMdDJ3
+
 tunnels:
   db-tunnel:
     proto: tcp
